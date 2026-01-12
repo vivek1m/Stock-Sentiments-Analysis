@@ -26,6 +26,6 @@ python sentiment_analysis.py
 ## 🛠️ Built With
 
 - Python  
-- Pandas, Matplotlib  
+- Pandas, Matplotlib 
 
 
