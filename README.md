@@ -2,7 +2,6 @@
 
 A simple project to analyze stock-related news headlines and predict sentiment (Positive, Negative, Neutral).
 
----
 
 ## 🔧 Features
 
